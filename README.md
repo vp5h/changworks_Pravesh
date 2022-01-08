@@ -1,3 +1,10 @@
-# react-dawzuy
+## Assignment project for ChangWorks
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-dawzuy)
+### Demo
+https://changworksp.netlify.app/
+
+### Instructions
+ - clone the Repo
+ - Run npm install
+ - run npm start
+ - Thats It!
