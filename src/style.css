@@ -1,0 +1,23 @@
+body {
+  background-color: #EDEDED;
+}
+.App {
+  font-family: segoe ui;
+  text-align: center;
+  height: 98vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container {
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.changworks {
+  font-size: 4rem;
+  font-weight: bold;
+}
+p {
+  font-size: 2rem;
+}
